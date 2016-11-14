@@ -8,3 +8,12 @@ spring:
         git:
           uri: file:///D:/programacion/workspaces/distributed/Spring-boot-netflix-PoC/
           basedir:  target/config
+#  security:
+#      user:
+#        password: 's3cret'
+#  encrypt:
+#    keyStore:
+#        location: classpath:/server.jks
+#        password: letmein
+#        alias: devKey
+#        secret: s3cret
