@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: MicroserviceString
+  cloud:
+    config:
+      enabled:  true
+      uri:  http://user:s3cret@localhost:8888
+      failFast: false
