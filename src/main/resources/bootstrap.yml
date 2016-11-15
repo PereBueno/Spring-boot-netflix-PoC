@@ -5,5 +5,5 @@ encrypt:
   keyStore:
     location: classpath:/server.jks
     password: letmein
-    alias: devKey
+    alias: devTestKey
     secret: s3cret
