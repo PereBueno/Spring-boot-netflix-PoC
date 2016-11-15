@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///D:/programacion/workspaces/distributed/Spring-boot-netflix-PoC/
+          uri: file:///${basedir}
           basedir:  target/config
 #  security:
 #      user:
